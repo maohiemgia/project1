@@ -43,3 +43,112 @@ main{
     text-align: center;
     margin-top: 15px;
 }
+@import url(https://fonts.googleapis.com/css?family=Raleway:400,800);
+figure.snip1083 {
+  font-family: 'Raleway', Arial, sans-serif;
+  position: relative;
+  overflow: hidden;
+  margin: 10px;
+  min-width: 220px;
+  max-width: 443px;
+  max-height: 590px;
+  width: 100%;
+  background: #000000;
+  color: #ffffff;
+  text-align: center;
+  box-shadow: 0 0 5px rgba(0, 0, 0, 0.15);
+}
+
+figure.snip1083 * {
+  -webkit-box-sizing: border-box;
+  box-sizing: border-box;
+  -webkit-transition: all 0.3s ease-in-out;
+  transition: all 0.3s ease-in-out;
+}
+
+figure.snip1083 img {
+  max-width: 100%;
+  -webkit-transform: scale(1.1);
+  transform: scale(1.1);
+}
+
+figure.snip1083 figcaption {
+  position: absolute;
+  top: 0;
+  left: 0;
+  bottom: 0;
+  right: 0;
+}
+
+figure.snip1083 h2 {
+  position: absolute;
+  top: 50%;
+  left: 40px;
+  right: 40px;
+  background: #000000;
+  -webkit-transform: skew(-10deg) rotate(-10deg) translateY(-50%);
+  transform: skew(-10deg) rotate(-10deg) translateY(-50%);
+  padding: 12px 10px;
+  margin: 0;
+  text-transform: uppercase;
+  font-weight: 400;
+}
+
+figure.snip1083 h2 span {
+  font-weight: 800;
+}
+
+figure.snip1083:before {
+  height: 100%;
+  width: 100%;
+  top: 0;
+  left: 0;
+  content: '';
+  background: #ffffff;
+  position: absolute;
+  -webkit-transform: skew(-10deg) rotate(-10deg) translateY(-50%);
+  transform: skew(-10deg) rotate(-10deg) translateY(-50%);
+}
+
+figure.snip1083 a {
+  left: 0;
+  right: 0;
+  top: 0;
+  bottom: 0;
+  position: absolute;
+}
+
+figure.snip1083.blue {
+  background: #123851;
+}
+
+figure.snip1083.blue h2 {
+  background: #0a212f;
+}
+
+figure.snip1083.red {
+  background: #581a14;
+}
+
+figure.snip1083.red h2 {
+  background: #36100c;
+}
+
+figure.snip1083.yellow {
+  background: #7b410e;
+}
+
+figure.snip1083.yellow h2 {
+  background: #562e0a;
+}
+
+figure.snip1083:hover img,
+figure.snip1083.hover img {
+  opacity: 0.3;
+  -webkit-transform: scale(1);
+  transform: scale(1);
+}
+#main_banner{
+    margin-top: 40px;
+    margin-bottom: 20px;
+}

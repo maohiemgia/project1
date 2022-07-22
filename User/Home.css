@@ -1,0 +1,45 @@
+
+main{
+    margin-top: 25px;
+    font-family: 'Roboto', sans-serif;
+}
+.policy{
+    display: flex;
+    border: 1px solid gray;
+    border-radius: 5px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+}
+.policy img{
+    width: 30px;
+    height: 30px;
+    margin-top: auto;
+    margin-bottom: auto;
+    margin-right: 10px;
+    margin-left: 60px;
+}
+.policy p{
+    color: #01567F;
+    font-size: 13px;
+    margin-bottom: 3px;
+}
+#policy{
+    margin-bottom: 50px;
+}
+#title{
+    text-align: center;
+    color: #01567F;
+}
+#product{
+    text-align: center;
+    margin-top: 30px;
+}
+#product p{
+    color: red;
+    font-weight: 600;
+    font-size: 14px;
+}
+.button{
+    text-align: center;
+    margin-top: 15px;
+}

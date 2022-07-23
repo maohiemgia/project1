@@ -4,6 +4,7 @@ header{
 }
 #Logo{
     padding-top: 13px;
+    overflow: hidden;
 }
 #Logo a{
     text-decoration: none;
@@ -72,8 +73,8 @@ header{
     color: black;
     
 }
-#feature a img{
-    
+#feature{
+    overflow: hidden;
 }
 #feature{
     padding-top: 15px;

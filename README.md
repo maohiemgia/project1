@@ -5,5 +5,5 @@ Dự án 1 - Nhóm 5
 <b>Thành viên nhóm</b>:
    <br>><span>      </span>Nguyễn Văn Tuấn - leader
    <br>><span>      </span>Trần Đức Lương - team 5 member
-   <br>><span>      </span>Hồ Hoài 324234 43234324  Nam - team 5 member
+   <br>><span>      </span>Hồ Hoài Nam - team 5 member
 </pre>
